@@ -1,4 +1,4 @@
-# contributing-guidelines
+# Contributing Guidelines
 Contributing guidelines for open-source EK projects.
 
 **IMPORTANT! Contribute your code only if you excellently understand project idea and all existing code base. Otherwise nice formatted issue will be much helpful for us.**
