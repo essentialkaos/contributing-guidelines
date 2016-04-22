@@ -14,7 +14,7 @@ Contributing guidelines for open-source EK projects.
 ### Code
 
 1. Check your code **before** creating pull request;
-2. If tests are presents in a project, add tests for your code;
+2. If tests are present in a project, add tests for your code;
 3. Add inline documentation for your code;
 4. Apply code style used throughout the project;
 5. Create your pull request to `develop` branch (_pull requests to other branches are not allowed_).
