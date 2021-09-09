@@ -17,3 +17,17 @@
 3. Add inline documentation for your code;
 4. Apply code style used throughout the project;
 5. Create your pull request to `develop` branch (_pull requests to other branches are not allowed_).
+
+### Screenshots for README
+
+* Format — [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) optimized with [TinyPNG](https://tinypng.com);
+* Width — 888px or 1776px (_x2_);
+* Maximum size — 1MB.
+
+### Usage demo for README
+
+* Console size — 133 ⨯ 33;
+* Format — [GIF](https://en.wikipedia.org/wiki/GIF) optimized with [EZGif](https://ezgif.com/optimize);
+* Size — 1332px ⨯ 812px;
+* FPS — 12 or 24;
+* Maximum size — 3MB.
