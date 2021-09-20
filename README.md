@@ -1,4 +1,4 @@
-## ![EK](https://essentialkaos.com/16.svg) Contributing Guidelines
+## ![EK](https://essentialkaos.com/16.svg) Contributing Guidelines [![License](https://gh.kaos.st/apache2.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 **IMPORTANT! Contribute your code only if you have an excellent understanding of project idea and all existing code base. Otherwise, a nicely formatted issue will be more helpful to us.**
 
