@@ -1,7 +1,17 @@
-## ![EK](https://essentialkaos.com/16.svg) Contributing Guidelines
+### The meaning of "open-source"
 
-> [!IMPORTANT]  
-> **Contribute your code only if you have an excellent understanding of project idea and all existing code base. Otherwise, a nicely formatted issue will be more helpful to us.**
+Our open source projects have publicly available code and other resources. This means that you are free to read and use it as you see fit under the terms of the license (_usually [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)_). 
+
+This simple fact is often misunderstood, so let us be crystal clear about what open source **does not** automatically mean by default:
+
+- It does not mean open to contributions;
+- It does not mean support is offered;
+- It does not mean you’re entitled to feature requests;
+- It does not mean the developer owes you their time;
+- It does not mean you’re entitled to anything;
+- It does not mean it is _free_ and open-source (_FOSS_).
+
+You can read more about this POV in [this article](https://vale.rocks/posts/open-source-entitlement).
 
 ### Issues
 
